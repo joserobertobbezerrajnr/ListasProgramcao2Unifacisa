@@ -1,0 +1,4 @@
+O StringPool funciona tentando guardar mais espaço para a JVM. Ela faz isso
+quando tentamos instanciar objetos do tipo String sem usar a palavra "new". 
+Quando fazemos isso, a StringPool verifica se já existe algum objeto com 
+o mesmo valor armazenado

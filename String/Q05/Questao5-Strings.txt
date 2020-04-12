@@ -1,0 +1,2 @@
+Utilizando a classe StringBuilder, o problema da questão anterior  seria resolvido, pois
+ao contrário da classe String, essa é mutável

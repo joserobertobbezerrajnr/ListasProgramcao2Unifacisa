@@ -1,0 +1,9 @@
+
+
+Resposta:
+
+A diferença é qie, na primeira opção, estamos criando uma 
+variável, do tipo String, que armazena o valor "Eduardo", e está armazenada 
+na parte da memória chamada Stack.
+Criando a String da segunda maneira, não estamos apenas criando uma variável,
+mas sim, estamos instanciando um objeto, por meio de um construtor da classe

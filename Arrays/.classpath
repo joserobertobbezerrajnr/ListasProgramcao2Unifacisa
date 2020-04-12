@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="CampeonatoParaibano/src"/>
+	<classpathentry kind="src" path="Interpol/src"/>
+	<classpathentry kind="src" path="jogoDaVelha/src"/>
+	<classpathentry kind="src" path="MathUtils/src"/>
+	<classpathentry kind="output" path="CampeonatoParaibano/bin"/>
+</classpath>

@@ -1,0 +1,4 @@
+
+Resposta:
+O que aconteceria, é que a JVM vai uma nova variável para cada
+alteração feita na String nome. 
